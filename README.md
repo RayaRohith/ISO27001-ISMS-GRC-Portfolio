@@ -1,4 +1,4 @@
-# ISO/IEC 27001 ISMS Portfolio — Audit-Grade
+# ISO/IEC 27001 ISMS Portfolio - Audit-Grade
 ### CloudFin Analytics SaaS Scenario
 
 ![ISO 27001](https://img.shields.io/badge/ISO%2FIEC-27001%3A2022-blue?style=flat-square&logo=shield&logoColor=white)
