@@ -1,5 +1,5 @@
-# ISO/IEC 27001 ISMS Portfolio - Audit-Grade
-### CloudFin Analytics SaaS Scenario
+# ISO/IEC 27001 ISMS Portfolio — Audit-Grade
+### CloudRise Analytics SaaS Scenario
 
 ![ISO 27001](https://img.shields.io/badge/ISO%2FIEC-27001%3A2022-blue?style=flat-square&logo=shield&logoColor=white)
 ![NIST CSF](https://img.shields.io/badge/NIST-CSF%202.0-darkgreen?style=flat-square)
@@ -18,7 +18,7 @@
 
 ## Overview
 
-This repository is an audit-grade ISO/IEC 27001:2022 ISMS portfolio built around a realistic fictional SaaS company, CloudFin Analytics, a cloud-based financial data platform handling sensitive customer data across multiple jurisdictions.
+This repository is an audit-grade ISO/IEC 27001:2022 ISMS portfolio built around a realistic fictional SaaS company, CloudRise Analytics, a cloud-based financial data platform handling sensitive customer data across multiple jurisdictions.
 
 The portfolio is structured as a real assurance engagement, not a checklist exercise. Every control decision traces back to a risk, every implemented control maps to verifiable evidence, and every audit finding has a documented corrective action and closure proof.
 
@@ -99,9 +99,9 @@ Controls are mapped to NIST CSF 2.0 functions and SOC 2 Trust Service Criteria, 
 
 ---
 
-## Scenario: CloudFin Analytics
+## Scenario: CloudRise Analytics
 
-CloudFin Analytics is a fictional UK-based SaaS company providing cloud-hosted financial data analytics to enterprise customers. The ISMS scope covers the production environment, customer data processing pipeline, and supporting infrastructure. The scenario was chosen to reflect a realistic high-stakes environment where data protection, access control, and audit readiness are business-critical requirements.
+CloudRise Analytics is a fictional UK-based SaaS company providing cloud-hosted financial data analytics to enterprise customers. The ISMS scope covers the production environment, customer data processing pipeline, and supporting infrastructure. The scenario was chosen to reflect a realistic high-stakes environment where data protection, access control, and audit readiness are business-critical requirements.
 
 ---
 
@@ -129,4 +129,4 @@ BEng Electronics and Communication Engineering, Anna University (2019-2023)
 
 ---
 
-*This is a simulation portfolio built for professional development and demonstration purposes. CloudFin Analytics is a fictional organisation. No real customer data or production systems are involved.*
+*This is a simulation portfolio built for professional development and demonstration purposes. CloudRise Analytics is a fictional organisation. No real customer data or production systems are involved.*
